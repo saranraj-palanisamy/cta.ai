@@ -1,0 +1,1434 @@
+CONTAINER TRACKING KNOWLEDGE BASE
+Total containers on file: 110
+Each record below describes one container. Match on the Container Number field.
+======================================================================
+
+Container Number: PILU3567281
+Vessel Name: EVER GIVEN
+ETA: 2026-08-27 21:45
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-29 03:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-07
+Container Gate Out Date Time: 2026-09-03 06:45
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-09-03 06:45.
+----------------------------------------------------------------------
+
+Container Number: ONEY4137722
+Vessel Name: ONE COLUMBA
+ETA: 2026-08-30 23:30
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-09-01 00:30
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-09-09
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 2910
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-09-09.
+----------------------------------------------------------------------
+
+Container Number: WHLU3679591
+Vessel Name: X-PRESS PEARL
+ETA: 2026-09-04 22:00
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: pending
+Container Discharge Date Time: Not available yet
+Container Inspection Status: Not available yet
+Container Stay In Terminal Charge Up To Date: Not available yet
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 0
+Location/Status Summary: Not yet discharged / not yet arrived at terminal.
+----------------------------------------------------------------------
+
+Container Number: MAEU1839607
+Vessel Name: WAN HAI 307
+ETA: 2026-08-12 02:15
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-13 05:15
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-22
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 10530
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-08-22.
+----------------------------------------------------------------------
+
+Container Number: SEAU9997348
+Vessel Name: CMA CGM MARCO POLO
+ETA: 2026-08-21 22:30
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-22 17:30
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-01
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 6750
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-09-01.
+----------------------------------------------------------------------
+
+Container Number: COSU9008867
+Vessel Name: COSCO SHIPPING ARIES
+ETA: 2026-08-31 14:30
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-31 19:30
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-09-06
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 3900
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-09-06.
+----------------------------------------------------------------------
+
+Container Number: ZIMU8398441
+Vessel Name: ZIM VIRGINIA
+ETA: 2026-08-31 11:00
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-09-01 16:00
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-09-10
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 2570
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-09-10.
+----------------------------------------------------------------------
+
+Container Number: OOLU2564217
+Vessel Name: MAERSK SEMBAWANG
+ETA: 2026-08-18 11:00
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-19 08:00
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-25
+Container Gate Out Date Time: 2026-08-24 19:00
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-24 19:00.
+----------------------------------------------------------------------
+
+Container Number: WHLU5159230
+Vessel Name: MSC GAYANE
+ETA: 2026-08-14 07:15
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-15 13:15
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-23
+Container Gate Out Date Time: 2026-08-16 15:15
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-16 15:15.
+----------------------------------------------------------------------
+
+Container Number: FCIU1161193
+Vessel Name: CMA CGM MARCO POLO
+ETA: 2026-08-31 23:15
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-09-01 05:15
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-10
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 2660
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-09-10.
+----------------------------------------------------------------------
+
+Container Number: ZIMU8852897
+Vessel Name: SEALAND MICHIGAN
+ETA: 2026-08-26 19:15
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-27 14:15
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-06
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 4130
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-09-06.
+----------------------------------------------------------------------
+
+Container Number: HMMU6693979
+Vessel Name: EVER GIVEN
+ETA: 2026-08-29 02:30
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-29 18:30
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-06
+Container Gate Out Date Time: 2026-09-03 19:30
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-09-03 19:30.
+----------------------------------------------------------------------
+
+Container Number: APLU1074176
+Vessel Name: COSCO SHIPPING UNIVERSE
+ETA: 2026-08-17 06:15
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-18 02:15
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-23
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 9240
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-08-23.
+----------------------------------------------------------------------
+
+Container Number: MAEU3841005
+Vessel Name: ONE STORK
+ETA: 2026-08-09 07:30
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-09 11:30
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-17
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 12270
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-08-17.
+----------------------------------------------------------------------
+
+Container Number: OOLU9046844
+Vessel Name: COSCO SHIPPING ARIES
+ETA: 2026-08-12 05:45
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-12 14:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-22
+Container Gate Out Date Time: 2026-08-17 21:45
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-17 21:45.
+----------------------------------------------------------------------
+
+Container Number: OOLU1582524
+Vessel Name: SAFEEN PRIDE
+ETA: 2026-08-11 03:45
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-11 16:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-18
+Container Gate Out Date Time: 2026-08-16 07:45
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-16 07:45.
+----------------------------------------------------------------------
+
+Container Number: MAEU1651177
+Vessel Name: ZIM VIRGINIA
+ETA: 2026-08-08 18:30
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-09 21:30
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-19
+Container Gate Out Date Time: 2026-08-11 06:30
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-11 06:30.
+----------------------------------------------------------------------
+
+Container Number: OOLU8997381
+Vessel Name: OOCL HONG KONG
+ETA: 2026-08-21 10:45
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-21 17:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-27
+Container Gate Out Date Time: 2026-08-26 21:45
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-26 21:45.
+----------------------------------------------------------------------
+
+Container Number: CSNU9232926
+Vessel Name: OOCL HONG KONG
+ETA: 2026-08-10 07:00
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-10 11:00
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-20
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 12410
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-08-20.
+----------------------------------------------------------------------
+
+Container Number: FCIU8075854
+Vessel Name: HAPAG LLOYD BERLIN
+ETA: 2026-08-13 18:00
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-14 01:00
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-21
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 10040
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-08-21.
+----------------------------------------------------------------------
+
+Container Number: CSNU4785687
+Vessel Name: CMA CGM ANTOINE DE SAINT EXUPERY
+ETA: 2026-08-21 04:45
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-21 10:45
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-26
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 8540
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-08-26.
+----------------------------------------------------------------------
+
+Container Number: MAEU5261415
+Vessel Name: MAERSK GIBRALTAR
+ETA: 2026-08-08 07:45
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-09 01:45
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-19
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 12130
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-08-19.
+----------------------------------------------------------------------
+
+Container Number: CMAU3117625
+Vessel Name: MAERSK GIBRALTAR
+ETA: 2026-08-10 01:00
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-11 00:00
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-21
+Container Gate Out Date Time: 2026-08-13 18:00
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-13 18:00.
+----------------------------------------------------------------------
+
+Container Number: APLU9712650
+Vessel Name: CMA CGM ANTOINE DE SAINT EXUPERY
+ETA: 2026-08-26 07:00
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-26 22:00
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-04
+Container Gate Out Date Time: 2026-09-02 09:00
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-09-02 09:00.
+----------------------------------------------------------------------
+
+Container Number: PILU4374922
+Vessel Name: X-PRESS PEARL
+ETA: 2026-08-14 03:30
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-14 12:30
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-20
+Container Gate Out Date Time: 2026-08-18 23:30
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-18 23:30.
+----------------------------------------------------------------------
+
+Container Number: HMMU7670955
+Vessel Name: ONE COLUMBA
+ETA: 2026-08-17 08:00
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-18 00:00
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-26
+Container Gate Out Date Time: 2026-08-24 06:00
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-24 06:00.
+----------------------------------------------------------------------
+
+Container Number: OOLU8487336
+Vessel Name: COSCO SHIPPING UNIVERSE
+ETA: 2026-08-15 10:30
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-16 16:30
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-20
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 12480
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-08-20.
+----------------------------------------------------------------------
+
+Container Number: HLXU7351517
+Vessel Name: MAERSK ESSEX
+ETA: 2026-08-25 04:30
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-26 01:30
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-09-05
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 4540
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-09-05.
+----------------------------------------------------------------------
+
+Container Number: HMMU1737893
+Vessel Name: MSC GAYANE
+ETA: 2026-08-11 14:00
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-12 20:00
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-16
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 14050
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-08-16.
+----------------------------------------------------------------------
+
+Container Number: HMMU3533779
+Vessel Name: ONE COLUMBA
+ETA: 2026-08-29 16:15
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-30 15:15
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-08
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 3450
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-09-08.
+----------------------------------------------------------------------
+
+Container Number: ZIMU0852264
+Vessel Name: PIL EXPRESS
+ETA: 2026-08-10 02:45
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-11 06:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-17
+Container Gate Out Date Time: 2026-08-11 23:45
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-11 23:45.
+----------------------------------------------------------------------
+
+Container Number: ONEY4394880
+Vessel Name: MSC GAYANE
+ETA: 2026-08-13 05:45
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-14 00:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-23
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 10100
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-08-23.
+----------------------------------------------------------------------
+
+Container Number: CMAU2500715
+Vessel Name: MSC GAYANE
+ETA: 2026-08-24 07:30
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-25 03:30
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-09-02
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 5350
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-09-02.
+----------------------------------------------------------------------
+
+Container Number: HMMU6117837
+Vessel Name: ONE COLUMBA
+ETA: 2026-08-08 17:15
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-09 16:15
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-14
+Container Gate Out Date Time: 2026-08-17 00:15
+Storage Charges Amount (AED): 410
+Location/Status Summary: Gated out of the terminal on 2026-08-17 00:15.
+----------------------------------------------------------------------
+
+Container Number: TCLU2592974
+Vessel Name: BAL EAGLE
+ETA: 2026-08-14 11:15
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-15 17:15
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-22
+Container Gate Out Date Time: 2026-08-16 05:15
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-16 05:15.
+----------------------------------------------------------------------
+
+Container Number: PILU6907400
+Vessel Name: HAPAG LLOYD BERLIN
+ETA: 2026-08-29 05:15
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-29 15:15
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-03
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 5600
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-09-03.
+----------------------------------------------------------------------
+
+Container Number: MAEU7896868
+Vessel Name: COSCO SHIPPING UNIVERSE
+ETA: 2026-08-14 12:45
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-15 01:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-21
+Container Gate Out Date Time: 2026-08-24 01:45
+Storage Charges Amount (AED): 480
+Location/Status Summary: Gated out of the terminal on 2026-08-24 01:45.
+----------------------------------------------------------------------
+
+Container Number: MSCU3240180
+Vessel Name: OOCL HONG KONG
+ETA: 2026-09-08 16:00
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: Not available yet
+Container Inspection Status: Not available yet
+Container Stay In Terminal Charge Up To Date: Not available yet
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 0
+Location/Status Summary: Not yet discharged / not yet arrived at terminal.
+----------------------------------------------------------------------
+
+Container Number: ZIMU5891254
+Vessel Name: YM WORLD
+ETA: 2026-08-27 22:45
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-28 21:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-07
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 3530
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-09-07.
+----------------------------------------------------------------------
+
+Container Number: ZIMU2995870
+Vessel Name: MSC GAYANE
+ETA: 2026-08-25 14:00
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-25 19:00
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-02
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 5670
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-09-02.
+----------------------------------------------------------------------
+
+Container Number: TCLU8580255
+Vessel Name: CMA CGM JULES VERNE
+ETA: 2026-08-10 18:15
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-11 04:15
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-15
+Container Gate Out Date Time: 2026-08-18 23:15
+Storage Charges Amount (AED): 440
+Location/Status Summary: Gated out of the terminal on 2026-08-18 23:15.
+----------------------------------------------------------------------
+
+Container Number: OOLU6110622
+Vessel Name: PIL EXPRESS
+ETA: 2026-08-20 08:30
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-21 05:30
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-27
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 8730
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-08-27.
+----------------------------------------------------------------------
+
+Container Number: HMMU8508103
+Vessel Name: COSCO SHIPPING UNIVERSE
+ETA: 2026-08-17 03:45
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-17 15:45
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-24
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 10190
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-08-24.
+----------------------------------------------------------------------
+
+Container Number: OOLU7053918
+Vessel Name: SEALAND MICHIGAN
+ETA: 2026-08-28 18:15
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-29 15:15
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-06
+Container Gate Out Date Time: 2026-09-02 02:15
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-09-02 02:15.
+----------------------------------------------------------------------
+
+Container Number: MSCU5098175
+Vessel Name: CMA CGM ANTOINE DE SAINT EXUPERY
+ETA: 2026-08-16 12:45
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-17 15:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-25
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 9550
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-08-25.
+----------------------------------------------------------------------
+
+Container Number: CSNU7418210
+Vessel Name: MSC ISABELLA
+ETA: 2026-08-28 12:45
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-29 15:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-08
+Container Gate Out Date Time: 2026-09-06 17:45
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-09-06 17:45.
+----------------------------------------------------------------------
+
+Container Number: CMAU4761145
+Vessel Name: HAPAG LLOYD BERLIN
+ETA: 2026-08-24 03:30
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-24 07:30
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-03
+Container Gate Out Date Time: 2026-09-01 13:30
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-09-01 13:30.
+----------------------------------------------------------------------
+
+Container Number: HMMU3768844
+Vessel Name: OOCL HONG KONG
+ETA: 2026-08-13 10:00
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-13 13:00
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-18
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 13710
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-08-18.
+----------------------------------------------------------------------
+
+Container Number: CSNU6953166
+Vessel Name: MSC OSCAR
+ETA: 2026-08-28 00:15
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-29 00:15
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-09-07
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 3420
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-09-07.
+----------------------------------------------------------------------
+
+Container Number: ONEY0093026
+Vessel Name: CMA CGM ANTOINE DE SAINT EXUPERY
+ETA: 2026-08-31 09:45
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-31 18:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-05
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 4670
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-09-05.
+----------------------------------------------------------------------
+
+Container Number: CSNU0842524
+Vessel Name: ONE STORK
+ETA: 2026-08-24 13:00
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-25 05:00
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-30
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 7530
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-08-30.
+----------------------------------------------------------------------
+
+Container Number: PILU7425149
+Vessel Name: COSCO SHIPPING ARIES
+ETA: 2026-08-27 05:45
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-28 09:45
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-09-05
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 4350
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-09-05.
+----------------------------------------------------------------------
+
+Container Number: FCIU7550917
+Vessel Name: HAPAG LLOYD BERLIN
+ETA: 2026-08-15 13:30
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-16 15:30
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-26
+Container Gate Out Date Time: 2026-08-22 10:30
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-22 10:30.
+----------------------------------------------------------------------
+
+Container Number: APLU4606980
+Vessel Name: WAN HAI 307
+ETA: 2026-09-09 08:00
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: Not available yet
+Container Inspection Status: Not available yet
+Container Stay In Terminal Charge Up To Date: Not available yet
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 0
+Location/Status Summary: Not yet discharged / not yet arrived at terminal.
+----------------------------------------------------------------------
+
+Container Number: APLU4558623
+Vessel Name: ONE STORK
+ETA: 2026-08-17 16:00
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-17 22:00
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-22
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 10120
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-08-22.
+----------------------------------------------------------------------
+
+Container Number: OOLU1077581
+Vessel Name: ONE STORK
+ETA: 2026-09-08 19:00
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: Not available yet
+Container Inspection Status: Not available yet
+Container Stay In Terminal Charge Up To Date: Not available yet
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 0
+Location/Status Summary: Not yet discharged / not yet arrived at terminal.
+----------------------------------------------------------------------
+
+Container Number: CSNU6975534
+Vessel Name: MSC ISABELLA
+ETA: 2026-08-08 12:45
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-09 02:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-19
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 12250
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-08-19.
+----------------------------------------------------------------------
+
+Container Number: SEAU8002392
+Vessel Name: ONE STORK
+ETA: 2026-08-07 17:30
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-08 19:30
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-15
+Container Gate Out Date Time: 2026-08-18 03:30
+Storage Charges Amount (AED): 490
+Location/Status Summary: Gated out of the terminal on 2026-08-18 03:30.
+----------------------------------------------------------------------
+
+Container Number: APLU8191131
+Vessel Name: ADNOC AL DHAFRA
+ETA: 2026-08-14 14:45
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-15 07:45
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-19
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 11780
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-08-19.
+----------------------------------------------------------------------
+
+Container Number: SEAU2768991
+Vessel Name: COSCO SHIPPING ARIES
+ETA: 2026-09-15 20:00
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: Not available yet
+Container Inspection Status: Not available yet
+Container Stay In Terminal Charge Up To Date: Not available yet
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 0
+Location/Status Summary: Not yet discharged / not yet arrived at terminal.
+----------------------------------------------------------------------
+
+Container Number: MSCU6610562
+Vessel Name: ONE COLUMBA
+ETA: 2026-08-26 00:00
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-26 04:00
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-09-04
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 4780
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-09-04.
+----------------------------------------------------------------------
+
+Container Number: MAEU4364698
+Vessel Name: ZIM VIRGINIA
+ETA: 2026-08-19 16:15
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-20 08:15
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-26
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 8610
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-08-26.
+----------------------------------------------------------------------
+
+Container Number: TCLU4232413
+Vessel Name: CMA CGM ANTOINE DE SAINT EXUPERY
+ETA: 2026-08-09 21:00
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-10 22:00
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-18
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 11380
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-08-18.
+----------------------------------------------------------------------
+
+Container Number: CMAU0675419
+Vessel Name: MAERSK ESSEX
+ETA: 2026-08-31 06:15
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-31 14:15
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-09-10
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 2420
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-09-10.
+----------------------------------------------------------------------
+
+Container Number: ONEY7945036
+Vessel Name: ONE COLUMBA
+ETA: 2026-08-28 09:15
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-29 01:15
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-09-07
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 3330
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-09-07.
+----------------------------------------------------------------------
+
+Container Number: COSU2747534
+Vessel Name: MAERSK ESSEX
+ETA: 2026-08-16 09:00
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-16 20:00
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-24
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 10150
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-08-24.
+----------------------------------------------------------------------
+
+Container Number: OOLU1275009
+Vessel Name: CMA CGM ANTOINE DE SAINT EXUPERY
+ETA: 2026-08-26 04:15
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-26 09:15
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-09-04
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 5110
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-09-04.
+----------------------------------------------------------------------
+
+Container Number: COSU9494772
+Vessel Name: COSCO SHIPPING ARIES
+ETA: 2026-08-08 17:45
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-09 16:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-15
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 12660
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-08-15.
+----------------------------------------------------------------------
+
+Container Number: MSCU7047416
+Vessel Name: MAERSK SEMBAWANG
+ETA: 2026-08-22 09:45
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-22 22:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-31
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 7170
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-08-31.
+----------------------------------------------------------------------
+
+Container Number: ONEY7306261
+Vessel Name: ZIM VIRGINIA
+ETA: 2026-08-13 05:30
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-14 02:30
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-24
+Container Gate Out Date Time: 2026-08-20 01:30
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-20 01:30.
+----------------------------------------------------------------------
+
+Container Number: CSNU7307727
+Vessel Name: BAL EAGLE
+ETA: 2026-08-31 00:30
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-31 12:30
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-10
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 2540
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-09-10.
+----------------------------------------------------------------------
+
+Container Number: CSNU4091349
+Vessel Name: CMA CGM MARCO POLO
+ETA: 2026-08-31 20:45
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-09-01 08:45
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-09-05
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 4390
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-09-05.
+----------------------------------------------------------------------
+
+Container Number: FCIU3558780
+Vessel Name: MSC ISABELLA
+ETA: 2026-08-18 14:30
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-19 00:30
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-27
+Container Gate Out Date Time: 2026-08-26 17:30
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-26 17:30.
+----------------------------------------------------------------------
+
+Container Number: MSCU8667566
+Vessel Name: YM WORLD
+ETA: 2026-08-13 08:15
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-14 09:15
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-21
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 11120
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-08-21.
+----------------------------------------------------------------------
+
+Container Number: FCIU8234615
+Vessel Name: BAL EAGLE
+ETA: 2026-08-21 06:00
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-21 17:00
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-26
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 8730
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-08-26.
+----------------------------------------------------------------------
+
+Container Number: WHLU7939993
+Vessel Name: OOCL HONG KONG
+ETA: 2026-08-24 22:30
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-25 13:30
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-09-03
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 5350
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-09-03.
+----------------------------------------------------------------------
+
+Container Number: CSNU4545223
+Vessel Name: MAERSK ESSEX
+ETA: 2026-09-06 14:00
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: Not available yet
+Container Inspection Status: Not available yet
+Container Stay In Terminal Charge Up To Date: Not available yet
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 0
+Location/Status Summary: Not yet discharged / not yet arrived at terminal.
+----------------------------------------------------------------------
+
+Container Number: OOLU5294016
+Vessel Name: OOCL HONG KONG
+ETA: 2026-08-11 05:15
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-11 13:15
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-16
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 14040
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-08-16.
+----------------------------------------------------------------------
+
+Container Number: HMMU1686548
+Vessel Name: YM WORLD
+ETA: 2026-08-13 15:15
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-14 04:15
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-19
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 11570
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-08-19.
+----------------------------------------------------------------------
+
+Container Number: ONEY4602180
+Vessel Name: ONE STORK
+ETA: 2026-08-08 07:30
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-09 07:30
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-14
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 14690
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-08-14.
+----------------------------------------------------------------------
+
+Container Number: COSU0205779
+Vessel Name: BAL EAGLE
+ETA: 2026-08-25 15:45
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-26 08:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-02
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 5570
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-09-02.
+----------------------------------------------------------------------
+
+Container Number: FCIU1914064
+Vessel Name: MAERSK GIBRALTAR
+ETA: 2026-08-09 18:45
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-09 22:45
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-17
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 13290
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-08-17.
+----------------------------------------------------------------------
+
+Container Number: ONEY9442881
+Vessel Name: MAERSK GIBRALTAR
+ETA: 2026-08-16 08:15
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-16 13:15
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-24
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 10320
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-08-24.
+----------------------------------------------------------------------
+
+Container Number: APLU8767312
+Vessel Name: MSC OSCAR
+ETA: 2026-08-19 20:45
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-20 07:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-30
+Container Gate Out Date Time: 2026-08-26 19:45
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-26 19:45.
+----------------------------------------------------------------------
+
+Container Number: MAEU1664863
+Vessel Name: APL TEMASEK
+ETA: 2026-08-31 12:15
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-31 22:15
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-09-09
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 2700
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-09-09.
+----------------------------------------------------------------------
+
+Container Number: CMAU2626181
+Vessel Name: OOCL HONG KONG
+ETA: 2026-08-07 19:45
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-08 19:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-16
+Container Gate Out Date Time: 2026-08-14 01:45
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-14 01:45.
+----------------------------------------------------------------------
+
+Container Number: APLU4833597
+Vessel Name: HMM ALGECIRAS
+ETA: 2026-08-29 15:45
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-29 19:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-07
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 3310
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-09-07.
+----------------------------------------------------------------------
+
+Container Number: OOLU7132648
+Vessel Name: YM WORLD
+ETA: 2026-08-10 23:15
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-11 21:15
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-16
+Container Gate Out Date Time: 2026-08-21 19:15
+Storage Charges Amount (AED): 710
+Location/Status Summary: Gated out of the terminal on 2026-08-21 19:15.
+----------------------------------------------------------------------
+
+Container Number: MAEU2783722
+Vessel Name: ONE COLUMBA
+ETA: 2026-08-17 01:30
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-17 17:30
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-21
+Container Gate Out Date Time: 2026-08-22 22:30
+Storage Charges Amount (AED): 160
+Location/Status Summary: Gated out of the terminal on 2026-08-22 22:30.
+----------------------------------------------------------------------
+
+Container Number: ZIMU8396529
+Vessel Name: ONE STORK
+ETA: 2026-08-24 21:45
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-25 01:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-02
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 5220
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-09-02.
+----------------------------------------------------------------------
+
+Container Number: PILU4200476
+Vessel Name: APL TEMASEK
+ETA: 2026-08-07 08:15
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-08 07:15
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-18
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 13400
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-08-18.
+----------------------------------------------------------------------
+
+Container Number: ZIMU9667820
+Vessel Name: X-PRESS PEARL
+ETA: 2026-08-08 11:45
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-09 05:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-18
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 12360
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-08-18.
+----------------------------------------------------------------------
+
+Container Number: TCLU8249789
+Vessel Name: YM WORLD
+ETA: 2026-08-09 21:30
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-10 12:30
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-16
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 12920
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-08-16.
+----------------------------------------------------------------------
+
+Container Number: PILU6906258
+Vessel Name: COSCO SHIPPING UNIVERSE
+ETA: 2026-09-13 21:00
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: Not available yet
+Container Inspection Status: Not available yet
+Container Stay In Terminal Charge Up To Date: Not available yet
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 0
+Location/Status Summary: Not yet discharged / not yet arrived at terminal.
+----------------------------------------------------------------------
+
+Container Number: SEAU9229089
+Vessel Name: HMM ALGECIRAS
+ETA: 2026-08-08 20:00
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-09 08:00
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-15
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 13360
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-08-15.
+----------------------------------------------------------------------
+
+Container Number: MSCU9103209
+Vessel Name: BAL EAGLE
+ETA: 2026-08-21 19:00
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-22 03:00
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-30
+Container Gate Out Date Time: 2026-08-26 05:00
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-26 05:00.
+----------------------------------------------------------------------
+
+Container Number: CSNU0865901
+Vessel Name: MSC OSCAR
+ETA: 2026-08-13 14:15
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-14 01:15
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-21
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 12000
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-08-21.
+----------------------------------------------------------------------
+
+Container Number: MSCU4014745
+Vessel Name: WAN HAI 307
+ETA: 2026-08-29 11:30
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-30 06:30
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-03
+Container Gate Out Date Time: 2026-09-05 09:30
+Storage Charges Amount (AED): 290
+Location/Status Summary: Gated out of the terminal on 2026-09-05 09:30.
+----------------------------------------------------------------------
+
+Container Number: CSNU1970754
+Vessel Name: OOCL HONG KONG
+ETA: 2026-08-27 10:45
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-28 10:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-03
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 5310
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-09-03.
+----------------------------------------------------------------------
+
+Container Number: FCIU7922533
+Vessel Name: YM WORLD
+ETA: 2026-08-14 20:15
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-15 10:15
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-20
+Container Gate Out Date Time: 2026-08-22 01:15
+Storage Charges Amount (AED): 300
+Location/Status Summary: Gated out of the terminal on 2026-08-22 01:15.
+----------------------------------------------------------------------
+
+Container Number: ZIMU6961578
+Vessel Name: ONE COLUMBA
+ETA: 2026-08-17 22:30
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-19 02:30
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-23
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 9800
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-08-23.
+----------------------------------------------------------------------
+
+Container Number: FCIU2493017
+Vessel Name: HMM ALGECIRAS
+ETA: 2026-08-21 23:45
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-22 12:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-28
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 8080
+Location/Status Summary: Still inside the terminal at CMA (CMA Terminals). Free storage time ends 2026-08-28.
+----------------------------------------------------------------------
+
+Container Number: CSNU5398528
+Vessel Name: SEALAND MICHIGAN
+ETA: 2026-08-14 04:15
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-15 00:15
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-22
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 10130
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-08-22.
+----------------------------------------------------------------------
+
+Container Number: MAEU5338112
+Vessel Name: BAL EAGLE
+ETA: 2026-08-30 21:45
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-31 11:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-09
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 3120
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-09-09.
+----------------------------------------------------------------------
+
+Container Number: FCIU0621086
+Vessel Name: MAERSK SEMBAWANG
+ETA: 2026-08-11 22:30
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-13 03:30
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-17
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 13920
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-08-17.
+----------------------------------------------------------------------
+
+Container Number: CSNU0257489
+Vessel Name: ZIM VIRGINIA
+ETA: 2026-08-30 10:45
+Discharged Terminal Name: ADT (Abu Dhabi Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-31 15:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-09
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 3230
+Location/Status Summary: Still inside the terminal at ADT (Abu Dhabi Terminals). Free storage time ends 2026-09-09.
+----------------------------------------------------------------------
+
+Container Number: ZIMU5680114
+Vessel Name: CMA CGM MARCO POLO
+ETA: 2026-08-27 04:45
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-28 02:45
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-09-01
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 6640
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-09-01.
+----------------------------------------------------------------------
+
+Container Number: SEAU5312692
+Vessel Name: COSCO SHIPPING ARIES
+ETA: 2026-09-13 04:00
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: pending
+Container Discharge Date Time: Not available yet
+Container Inspection Status: Not available yet
+Container Stay In Terminal Charge Up To Date: Not available yet
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 0
+Location/Status Summary: Not yet discharged / not yet arrived at terminal.
+----------------------------------------------------------------------
+
+Container Number: MAEU1147909
+Vessel Name: BAL EAGLE
+ETA: 2026-08-15 02:30
+Discharged Terminal Name: CSP (COSCO Shipping Ports terminal)
+Customs Clearance Status: pending
+Container Discharge Date Time: 2026-08-15 11:30
+Container Inspection Status: OnHold
+Container Stay In Terminal Charge Up To Date: 2026-08-24
+Container Gate Out Date Time: Still in terminal (not gated out yet)
+Storage Charges Amount (AED): 9000
+Location/Status Summary: Still inside the terminal at CSP (COSCO Shipping Ports terminal). Free storage time ends 2026-08-24.
+----------------------------------------------------------------------
+
+Container Number: COSU7443690
+Vessel Name: COSCO SHIPPING UNIVERSE
+ETA: 2026-08-13 04:30
+Discharged Terminal Name: CMA (CMA Terminals)
+Customs Clearance Status: cleared
+Container Discharge Date Time: 2026-08-14 10:30
+Container Inspection Status: Released
+Container Stay In Terminal Charge Up To Date: 2026-08-18
+Container Gate Out Date Time: 2026-08-15 03:30
+Storage Charges Amount (AED): 0
+Location/Status Summary: Gated out of the terminal on 2026-08-15 03:30.
+----------------------------------------------------------------------
